@@ -23,7 +23,6 @@
         app:layout_constraintVertical_chainStyle="packed"
         android:layout_marginStart="10dp"
         android:textSize="16sp"
-        tools:text="Black shadows"
         />
     <TextView
         android:id="@+id/book_author"
@@ -36,7 +35,6 @@
         app:layout_constraintBottom_toBottomOf="@id/image_book_cover"
         android:layout_marginStart="10dp"
         android:textSize="14sp"
-        tools:text="Adam Smith"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
