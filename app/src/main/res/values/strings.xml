@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Your Library</string>
+    <string name="book_quantity">Quantity: %s</string>
+</resources>
